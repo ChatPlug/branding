@@ -1,2 +1,2 @@
-# branding
-Branding assets for ChatPlug including SVG animations, spinners, SVG &amp; PNG files and more s
+# Branding [![Discord](https://discordapp.com/api/guilds/456875835954298890/embed.png)]()
+Branding assets for ChatPlug including SVG animations, spinners, SVG &amp; PNG files and more...
